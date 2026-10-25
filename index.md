@@ -50,6 +50,8 @@ Last updated: October 17, 2026
 
 **Permissions.** Notifications (to show reminders); exact alarms and boot-completed (to deliver reminders on time). The app itself does not use the microphone (no audio permission): the voice-input button opens the standard speech-recognition window of the speech service installed on your device. The app does not record or store audio and only receives the resulting text. Speech is recognized by the speech service installed on your device (e.g. Google's or your phone maker's); the app asks it to work offline when supported. If offline recognition is unavailable, that service may send audio to its own servers under its own policy. If you prefer to avoid this, type with the keyboard.
 
+**Rating prompt.** The app may ask you to rate it. A rating of 4–5 opens the app page in the store; a lower rating opens an email to the developer in your own mail app. The app sends nothing by itself: only what you write and send yourself.
+
 **Medical disclaimer.** The app only reminds you to take medications. It provides no medical advice, dosing recommendations or diagnoses and does not replace a doctor.
 
 **Deleting data.** Use Settings → Data to clear the journal or delete all data. Uninstalling the app removes all data from the device.
